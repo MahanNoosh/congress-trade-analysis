@@ -3,4 +3,4 @@
 # Graphics and data visualization
 plotly>=5.22.0
 networkx==3.4.2
-graphviz==0.20.3 # see special installation instructions
+graphviz==0.20.3 
