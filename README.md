@@ -48,4 +48,3 @@ The program filters raw CSV data, computes win rates for representatives, builds
 ---
 
 Contributions, feedback, and improvements are welcome!
-
